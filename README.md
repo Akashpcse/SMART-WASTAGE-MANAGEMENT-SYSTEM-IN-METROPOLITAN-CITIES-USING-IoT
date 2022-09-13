@@ -1,0 +1,2 @@
+# SMART-WASTAGE-MANAGEMENT-SYSTEM-IN-METROPOLITAN-CITIES-USING-IoT
+Maintaining the wastage with Gps and IoT systems
